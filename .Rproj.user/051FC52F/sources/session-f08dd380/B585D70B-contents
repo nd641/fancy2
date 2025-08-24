@@ -1,0 +1,16 @@
+Package: fancy
+Type: Package
+Title: First Fancy Package (Title Case)
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Neza", "Dvorsak",
+      email = "nd641@bath.ac.uk",
+      role = c("aut", "cre")
+    )
+  )
+Description: It has some simple functions, as its intention is for me to learn to build a package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
