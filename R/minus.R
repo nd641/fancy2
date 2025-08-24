@@ -8,7 +8,7 @@
 #' @export
 #'
 #' @examples
-#' minus(3,2)
+#' minus(4,2)
 minus <- function(x,y) {
   return(x-y)
 }
