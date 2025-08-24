@@ -18,5 +18,5 @@ Difference of 'x' and 'y'.
 This function returns a difference between two numbers.
 }
 \examples{
-minus(3,2)
+minus(4,2)
 }
